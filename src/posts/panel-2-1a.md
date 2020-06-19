@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Panel 2.1A | Guidelines (Optional)
+socialImage: /images/2.1a_guidelines.gif
 date: 2020-06-19T04:40:58.800Z
 tags:
   - status

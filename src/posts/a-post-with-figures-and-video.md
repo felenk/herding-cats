@@ -18,9 +18,9 @@ This image is **90%** completed and should only require minimal shading efforts 
 
 ![Proper useage of face masks and how to put them on](images/2.6f_facemaskdemo.gif "Storyboard animation of illustration explaning how to properly wear a mask.")
 
-You can also add videos to posts from YouTube or Vimeo (or wherever, really) and the front-end will also make those bleed-out for you too.
+*The video below helped inspire this series of images.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_38JDGnr0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JwPWdkbyizw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Finally, how about a `<blockquote>`?
 

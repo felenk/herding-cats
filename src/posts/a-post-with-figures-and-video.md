@@ -2,8 +2,8 @@
 title: Panel 2.6F | Proper Steps For Face Masks
 metaTitle: COVID-19 Proper Steps For Face Masks
 metaDesc: COVID-19 Proper Steps For Face Masks
-socialImage: images/2.6f_facemaskdemo.gif
-date: 2019-06-18
+socialImage: images/master.jpg
+date: 2019-06-18T00:00:00.000Z
 tags:
   - panels
   - status

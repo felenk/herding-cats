@@ -1,10 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
+title: GFA C19 Status
+postsHeading: Latest updates
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: ""
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+Herding cats can be difficult, as with projects that have variable targets; because of this, we *strongly recommend* checking back at this site regularly.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Get started now by [checking the latest updates](https://herding-cats.netlify.app/galleria).

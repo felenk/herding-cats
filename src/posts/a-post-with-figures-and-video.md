@@ -10,9 +10,9 @@ tags:
   - updates
   - graphics
 ---
-Where the script called for an: *"Animation of Demonstration: Proper Mask Use"*
+**SCRIPT**: *"Animation of Demonstration: Proper Mask Use"*
 
-This image is **90%** completed and should only require minimal shading efforts to be **100%** completed. 
+> This image is **90%** completed and should only require minimal shading efforts to be **100%** completed. 
 
 **Special Note:** *Because this is close to the mention of cleaning face cloths, it might be important in later editions/videos, to highlight the difference between disposable and non-disposable masks.*
 
@@ -22,10 +22,4 @@ This image is **90%** completed and should only require minimal shading efforts 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JwPWdkbyizw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Finally, how about a `<blockquote>`?
-
-> Quotes will take a slightly different style to normal body text and look fancy.
-
-![Person holds up a photograph of a riverside and buildings with the same river as a backdrop](/images/demo-image-2.jpg "Remember, if you want a figure and caption, add a 'title' attribute to image in the body field — Photo by Kharytonova Antonina on Unsplash.")
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+Most people with means will likely wear masks that are easily removable and disposable as opposed to creating and wearing cloth masks; *unless of course they have been specially branded.*

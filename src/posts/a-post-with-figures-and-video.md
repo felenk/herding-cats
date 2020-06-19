@@ -18,8 +18,4 @@ tags:
 
 ![Proper useage of face masks and how to put them on](images/2.6f_facemaskdemo.gif "Storyboard animation of illustration explaning how to properly wear a mask.")
 
-*The video below helped inspire this series of images.*
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JwPWdkbyizw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Most people with means will likely wear masks that are easily removable and disposable as opposed to creating and wearing cloth masks; *unless of course they have been specially branded.*

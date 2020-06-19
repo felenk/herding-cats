@@ -7,9 +7,6 @@ publish_mode: editorial_workflow
 site_url: "https://herding-cats.netlify.com"
 media_folder: "src/images"
 public_folder: "/images"
-media_library:
-  config:
-    max_file_size: 9999999999 # in bytes, only for default media library
 collections:
   - name: "pages"
     label: "Pages"

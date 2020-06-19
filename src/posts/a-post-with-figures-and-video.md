@@ -14,6 +14,6 @@ tags:
 
 > This image is **90%** completed and should only require minimal shading efforts to be **100%** completed. 
 
-![GIF for proper wearing of face masks](images/2.6f_facemaskdemo.gif "Storyboard animation of illustration explaning how to properly wear a mask.")
+![GIF for proper wearing of face masks](https://herding-cats.netlify.app/images/2.6f_facemaskdemo.gif "Storyboard animation of illustration explaning how to properly wear a mask.")
 
 **Special Note:** *Because this is close to the mention of cleaning face cloths, it might be important in later editions/videos, to highlight the difference between disposable and non-disposable masks.*

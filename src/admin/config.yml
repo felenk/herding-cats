@@ -1,10 +1,21 @@
 backend:
   name: git-gateway
   branch: master
+# when using the default proxy server port
+local_backend: true
+
+local_backend:
+  # when using a custom proxy server port
+  url: http://localhost:8082/api/v1
+  # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
+  allowed_hosts: ['192.168.0.1']
 publish_mode: editorial_workflow
 site_url: "https://herding-cats.netlify.com"
 media_folder: "src/images"
-public_folder: "../../images"
+public_folder: "/images"
+media_library:
+  config:
+    max_file_size: 9999999999 # in bytes, only for default media library
 collections:
   - name: "pages"
     label: "Pages"

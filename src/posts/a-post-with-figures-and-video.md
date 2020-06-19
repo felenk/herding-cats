@@ -14,8 +14,6 @@ tags:
 
 > This image is **90%** completed and should only require minimal shading efforts to be **100%** completed. 
 
+![GIF for proper wearing of face masks](images/2.6f_facemaskdemo.gif "Storyboard animation of illustration explaning how to properly wear a mask.")
+
 **Special Note:** *Because this is close to the mention of cleaning face cloths, it might be important in later editions/videos, to highlight the difference between disposable and non-disposable masks.*
-
-![Proper useage of face masks and how to put them on](images/2.6f_facemaskdemo.gif "Storyboard animation of illustration explaning how to properly wear a mask.")
-
-Most people with means will likely wear masks that are easily removable and disposable as opposed to creating and wearing cloth masks; *unless of course they have been specially branded.*

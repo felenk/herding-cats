@@ -16,7 +16,7 @@ This image is **90%** completed and should only require minimal shading efforts 
 
 **Special Note:** *Because this is close to the mention of cleaning face cloths, it might be important in later editions/videos, to highlight the difference between disposable and non-disposable masks.*
 
-![The top of a grey concrete building with a blue sky in the background](images/2.6f_facemaskdemo.gif "Brutalism at its finest. Photo by Artificial Photography on Unsplash.")
+![Proper useage of face masks and how to put them on](images/2.6f_facemaskdemo.gif "Storyboard animation of illustration explaning how to properly wear a mask.")
 
 You can also add videos to posts from YouTube or Vimeo (or wherever, really) and the front-end will also make those bleed-out for you too.
 

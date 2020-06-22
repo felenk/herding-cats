@@ -19,6 +19,10 @@ Umbrella and lighting graphics, meant to set the scene or be used as background 
 
 Due to the reduction in sketch quality requested, original draft will be re-finished with some shmutz, and likely via graphite with a re-entry to iPad processing without the cleanup.
 
+![Umbrella Lighting](/images/umbrella-kit-studio-light.png "Umbrella Lighting")
 
+![Umbrella Lighting Secondary](/images/lighting-umbrella-1.png "Umbrella Lighting Secondary")
 
-***NOTE:** Please do not down vote this image for reasons of being "too polished" finishing will be re-done.*
+\
+\
+**\*NOTE:** Please do not down vote this image for reasons of being "too polished" finishing will be re-done.*

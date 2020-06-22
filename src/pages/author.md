@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Author
+title: Author > Cat Wrangler
 permalink: kaska
 metaTitle: Author
 metaDesc: Author

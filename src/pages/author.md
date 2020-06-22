@@ -11,6 +11,6 @@ Sometimes it can help, when working on remote teams that require so much interac
 First Name: Kaska (KAH-SKAH)\
 Last Name: Miskolczi (MEE-SKUL-JSHEE)
 Signature: Üdvözlettel > Warm Regards or Warm Sincerity
-Handle: BatmanWGD
+Handle: [BatmanWGD](https://github.com/batmanwgd)
 Personal Website: <https://iamkaska.com>
 Randomness: **LOVES** cars.

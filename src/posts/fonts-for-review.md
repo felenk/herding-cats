@@ -18,6 +18,8 @@ Please choose **one** of the following styles for the fonts on the body of the c
 
 **Option 2:**
 
+![Font Option #2](/images/washorsanitize_alt.png "Font Option #2")
+
 **Option 3:**
 
 **Option 4:**

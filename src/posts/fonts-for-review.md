@@ -22,7 +22,7 @@ Please choose **one** of the following styles for the fonts on the body of the c
 
 **Option 3:**
 
-
+![Font Option #3](/images/washorsanitize_f3.png "Font Option #3")
 
 **Option 4:**
 

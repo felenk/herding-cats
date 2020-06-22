@@ -1,7 +1,7 @@
 ---
 layout: home
 title: GFA C19 Status
-postsHeading: Latest updates
+postsHeading: Latest Updates
 archiveButtonText: See all posts
 socialImage: images/cat-riding-horse.jpg
 ---

@@ -14,7 +14,7 @@ Please choose **one** of the following styles for the fonts on the body of the c
 
 **Option 1:**
 
-![Option #1](/images/washorsanitize_f2.png "Option 1")
+![Option #1](/images/washorsanitize_f2.png "Font Option #1")
 
 **Option 2:**
 

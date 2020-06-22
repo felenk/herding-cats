@@ -18,7 +18,7 @@ Please choose **one** of the following styles for the fonts on the body of the c
 
 **Option 2:**
 
-![Font Option #2](/images/washorsanitize_alt-min.jpg "Font Option #2")
+![Font Option #2](/images/washorsanitize_f2.jpg "Font Option #2")
 
 **Option 3:**
 
@@ -31,5 +31,9 @@ Please choose **one** of the following styles for the fonts on the body of the c
 **Option 5:**
 
 ![Font Options #5](/images/washorsanitize_f5.jpg "Font Options #5")
+
+**Option 6:**
+
+![Font Option #6](/images/washorsanitize_f6.jpg "Font Option #6")
 
 **\*NOTE:** The story board frame will be the unchanged Courier New, but this is for the extra "bonus" content meant to be highlighted in frame instead.*

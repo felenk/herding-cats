@@ -6,13 +6,25 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/batmanwgd/",
+      "text": "Drafts",
+      "url": "https://herding-cats.netlify.app/tags/drafts"
+    },
+    {
+      "text": "Approve Me",
+      "url": "https://herding-cats.netlify.app/tags/feedback"
+    },
+    {
+      "text": "Semi-Finals",
+      "url": "https://herding-cats.netlify.app/tags/finished"
+    },
+    {
+      "text": "Vote",
+      "url": "https://airtable.com/shrHa1x39YSxxyDar",
       "external": true
     },
     {
-      "text": "Submit Your Vote",
-      "url": "https://airtable.com/shrHa1x39YSxxyDar",
+      "text": "Author",
+      "url": "https://github.com/batmanwgd/",
       "external": true
     }
   ]

@@ -11,6 +11,7 @@ tags:
   - scene
   - backdrop
   - draft
+  - polishing
 ---
 Uncertain about use per updates within v2.0 and v2.1, but cycwall was meant to serve as a backdrop or scene setter for approximately 10 panels across scenes 13 through 18.
 

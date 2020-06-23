@@ -16,4 +16,10 @@ tags:
   - pencil
   - pastel
 ---
-Panel
+This is the graphic scene for panels 3.2 and 3.3. Illustrating a filmset, with special highlights for social distancing, wearing masks, cones, sanitizing productions stations, etc.
+
+![Panels 3.2-3.3 Complete Filmset Scene](/images/3-2_3-3.jpg "Panels 3.2-3.3 Complete Filmset Scene")
+
+This is not a graphic for review/voting as it is complete. 
+
+Please enjoy. :-)

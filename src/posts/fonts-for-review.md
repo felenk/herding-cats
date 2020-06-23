@@ -13,6 +13,8 @@ tags:
 ---
 Please choose **one** of the following styles for the fonts on the body of the content for any given frame.
 
+***UPDATED NOTE:** Style has been narrowed down to "art pen", "marker", and "craft pen" looks. We are playing with both all caps and smallcaps typography, depending on demographics*
+
 **Option 1:**
 
 ![Font Option #1](/images/washorsanitize_f2.jpg "Font Option #1")
@@ -36,8 +38,6 @@ Please choose **one** of the following styles for the fonts on the body of the c
 **Option 6:**
 
 ![Font Option #6](/images/washorsanitize_f6.jpg "Font Option #6")
-
-
 
 **Option #7:**
 

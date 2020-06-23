@@ -12,4 +12,8 @@ tags:
   - feedback
   - graphite
 ---
-Wynn inline with the new storyboard marker/wet-ink/smeared shading look. Little bit more polish than some of the other graphics, ***but this is intentional***. We want to have her *(or even the other interviewees/narrators/spokespeople)* look a shot or two above the class of illustrations we have for the other elements
+Wynn inline with the new storyboard marker/wet-ink/smeared shading look. Little bit more polish than some of the other graphics, ***but this is intentional***. We want to have her *(or even the other interviewees/narrators/spokespeople)* look a shot or two above the class of illustrations we have for the other elements.
+
+![Wynn Storyboard Markerized](/images/img_1254.jpg "Wynn Storyboard Markerized")
+
+Please let us know on the [voting form](https://herding-cats.netlify.app/pages/cats-your-vote/), which side you like ***more***. Left or Right.

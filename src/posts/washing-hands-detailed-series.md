@@ -15,4 +15,10 @@ Uncertain of status long term with project, as potential is there to thicken str
 
 ![Washing Hands - Detailed Series Back](/images/washing-detailed-backs-hands.jpg "Washing Hands - Detailed Series Back")
 
-***NOTE:** Client currently uninterested in this level of detail per sketchy storyboard theme*
+![Washing Hands - Detailed Series Dry](/images/washing_dry-hands.jpg "Washing Hands - Detailed Series Dry")
+
+![Washing Hands - Detailed Series Fingernails](/images/washing-detailed_fingernails.jpg "Washing Hands - Detailed Series Fingernails")
+
+![](/images/washing-detailed_flush.jpg)
+
+**\*NOTE:** Client currently uninterested in this level of detail per sketchy storyboard theme*

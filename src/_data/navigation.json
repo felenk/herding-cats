@@ -25,13 +25,13 @@
       "url": "/tags/finished"
     },
     {
+      "text": "Litter Box",
+      "url": "/tags/litter-box"
+    },
+    {
       "text": "Author",
       "url": "/pages/cat-wrangler-author/",
       "external": false
-    },
-    {
-      "text": "Litter Box",
-      "url": "/tags/litter-box"
     }
   ]
 }

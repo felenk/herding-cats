@@ -20,10 +20,10 @@ We want to have her *(or even the other interviewees/narrators/spokespeople)* lo
 
 **New Look:**
 
-![Wynn Storyboard Markerized - NEW LOOK](/images/img_1254.jpg "Wynn Storyboard Markerized -NEW LOOK")
+![Wynn Storyboard Markerized - NEW LOOK](/images/img_1254.jpg "Wynn Storyboard Markerized - NEW LOOK")
 
 **Previous Look:**
 
-![]()
+![Wynn Storyboard Markerized - FIRST LOOK](/images/graphite-6.jpg "Wynn Storyboard Markerized - FIRST LOOK")
 
 Please let us know on the [voting form](https://herding-cats.netlify.app/pages/cats-your-vote/), which side you like ***more***. Left or Right.

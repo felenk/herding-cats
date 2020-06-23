@@ -6,11 +6,6 @@
       "external": false
     },
     {
-      "text": "Drafts",
-      "url": "/tags/drafts",
-      "external": false
-    },
-    {
       "text": "Approve Me",
       "url": "/tags/feedback",
       "external": false
@@ -26,13 +21,17 @@
       "external": false
     },
     {
+      "text": "Finals",
+      "url": "/tags/finished"
+    },
+    {
       "text": "Author",
       "url": "/pages/cat-wrangler-author/",
       "external": false
     },
     {
-      "text": "Finals",
-      "url": "/tags/finished"
+      "text": "Litter Box",
+      "url": "/tags/litter-box"
     }
   ]
 }

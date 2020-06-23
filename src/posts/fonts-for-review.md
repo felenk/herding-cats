@@ -21,10 +21,6 @@ Style has been narrowed down to "art pen", "marker", and "craft pen" looks. We a
 
 ![Font Option #1](/images/washorsanitize_f2.jpg "Font Option #1")
 
-**Option 2:**
-
-![Font Option #2](/images/washorsanitize_f2.jpg "Font Option #2")
-
 **Option 3:**
 
 ![Font Option #3](/images/washorsanitize_f3.jpg "Font Option #3")

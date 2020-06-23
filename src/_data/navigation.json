@@ -7,25 +7,28 @@
     },
     {
       "text": "Drafts",
-      "url": "https://herding-cats.netlify.app/tags/drafts"
+      "url": "/tags/drafts",
+      "external": false
     },
     {
       "text": "Approve Me",
-      "url": "https://herding-cats.netlify.app/tags/feedback"
+      "url": "/tags/feedback",
+      "external": false
     },
     {
       "text": "Semi-Finals",
-      "url": "https://herding-cats.netlify.app/tags/finished"
+      "url": "/tags/finished",
+      "external": false
     },
     {
       "text": "Vote",
-      "url": "https://herding-cats.netlify.app/pages/cats-your-vote",
-      "external": true
+      "url": "/pages/cats-your-vote",
+      "external": false
     },
     {
       "text": "Author",
-      "url": "https://herding-cats.netlify.app/pages/author",
-      "external": true
+      "url": "/pages/author",
+      "external": false
     }
   ]
 }

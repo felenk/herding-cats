@@ -18,6 +18,12 @@ Wynn inline with the new storyboard marker/wet-ink/smeared shading look. Little 
 
 We want to have her *(or even the other interviewees/narrators/spokespeople)* look a shot or two above the class of illustrations we have for the other elements.
 
-![Wynn Storyboard Markerized](/images/img_1254.jpg "Wynn Storyboard Markerized")
+**New Look:**
+
+![Wynn Storyboard Markerized - NEW LOOK](/images/img_1254.jpg "Wynn Storyboard Markerized -NEW LOOK")
+
+**Previous Look:**
+
+![]()
 
 Please let us know on the [voting form](https://herding-cats.netlify.app/pages/cats-your-vote/), which side you like ***more***. Left or Right.

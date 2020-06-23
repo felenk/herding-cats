@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Author > Cat Wrangler
-permalink: kaska
+permalink: author
 metaTitle: Author
 metaDesc: Author
 socialImage: /images/kaska.jpg

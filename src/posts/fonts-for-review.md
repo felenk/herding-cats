@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Fonts for Review
 metaTitle: Fonts for Review
-socialImage: /images/washorsanitize_f7.jpg
+socialImage: /images/washorsanitize_f9.jpg
 date: 2020-06-22T20:37:16.679Z
 tags:
   - panels

@@ -17,7 +17,7 @@
     },
     {
       "text": "Semi-Finals",
-      "url": "/tags/finished",
+      "url": "/tags/polishing",
       "external": false
     },
     {
@@ -29,6 +29,10 @@
       "text": "Author",
       "url": "/pages/cat-wrangler-author/",
       "external": false
+    },
+    {
+      "text": "Finals",
+      "url": "/tags/finished"
     }
   ]
 }

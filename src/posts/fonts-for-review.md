@@ -43,7 +43,7 @@ Style has been narrowed down to "art pen", "marker", and "craft pen" looks. We a
 
 **Option 8:**
 
-![Font Option #8](/images/washorsanitize_f8.png "Font Option #8")
+![Font Option #8](/images/washorsanitize_f8.jpg "Font Option #8")
 
 ![Font Option #9](/images/washorsanitize_f9.jpg "Font Option #9")
 

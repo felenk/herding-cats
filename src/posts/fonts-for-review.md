@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Fonts for Review
 metaTitle: Fonts for Review
-socialImage: /images/washorsanitize_f7.jpg
+socialImage: /images/washorsanitize_f9.jpg
 date: 2020-06-22T20:37:16.679Z
 tags:
   - panels
@@ -40,5 +40,11 @@ Style has been narrowed down to "art pen", "marker", and "craft pen" looks. We a
 **Option #7:**
 
 ![Font Option #7](/images/washorsanitize_f7.jpg "Font Option #7")
+
+**Option 8:**
+
+![Font Option #8](/images/washorsanitize_f8.png "Font Option #8")
+
+![Font Option #9](/images/washorsanitize_f9.jpg "Font Option #9")
 
 **\*NOTE:** The story board frame will be the unchanged Courier New, but this is for the extra "bonus" content meant to be highlighted in frame instead.*

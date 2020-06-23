@@ -6,24 +6,27 @@
       "external": false
     },
     {
-      "text": "Drafts",
-      "url": "/tags/drafts",
-      "external": false
-    },
-    {
       "text": "Approve Me",
       "url": "/tags/feedback",
       "external": false
     },
     {
       "text": "Semi-Finals",
-      "url": "/tags/finished",
+      "url": "/tags/polishing",
       "external": false
     },
     {
       "text": "Vote",
       "url": "/pages/cats-your-vote/",
       "external": false
+    },
+    {
+      "text": "Finals",
+      "url": "/tags/finished"
+    },
+    {
+      "text": "Litter Box",
+      "url": "/tags/litter-box"
     },
     {
       "text": "Author",

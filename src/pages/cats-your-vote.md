@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Cats Your Vote
-permalink: cats-your-vote
+permalink: cats-your-vote.html
 metaTitle: Cats Your Vote
 metaDesc: Cats Your Vote
 ---

@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Fonts for Review
 metaTitle: Fonts for Review
+socialImage: /images/washorsanitize_f7.jpg
 date: 2020-06-22T20:37:16.679Z
 tags:
   - panels
@@ -35,5 +36,11 @@ Please choose **one** of the following styles for the fonts on the body of the c
 **Option 6:**
 
 ![Font Option #6](/images/washorsanitize_f6.jpg "Font Option #6")
+
+
+
+**Option #7:**
+
+![Font Option #7](/images/washorsanitize_f7.jpg "Font Option #7")
 
 **\*NOTE:** The story board frame will be the unchanged Courier New, but this is for the extra "bonus" content meant to be highlighted in frame instead.*

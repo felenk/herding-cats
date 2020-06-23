@@ -13,7 +13,9 @@ tags:
 ---
 Please choose **one** of the following styles for the fonts on the body of the content for any given frame.
 
-***UPDATED NOTE:** Style has been narrowed down to "art pen", "marker", and "craft pen" looks. We are playing with both all caps and smallcaps typography, depending on demographics*
+Style has been narrowed down to "art pen", "marker", and "craft pen" looks. We are playing with both all caps and smallcaps typography, depending on demographics
+
+***UPDATED NOTE:** Because we have a voting panel open, we are going to keep iterating through the naming/numbering of options, BUT we will be eliminating options from this list below as they are narrowed down.*
 
 **Option 1:**
 

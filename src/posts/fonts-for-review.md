@@ -41,4 +41,8 @@ Style has been narrowed down to "art pen", "marker", and "craft pen" looks. We a
 
 ![Font Option #7](/images/washorsanitize_f7.jpg "Font Option #7")
 
+
+
+
+
 **\*NOTE:** The story board frame will be the unchanged Courier New, but this is for the extra "bonus" content meant to be highlighted in frame instead.*

@@ -19,6 +19,8 @@ Uncertain of status long term with project, as potential is there to thicken str
 
 ![Washing Hands - Detailed Series Fingernails](/images/washing-detailed_fingernails.jpg "Washing Hands - Detailed Series Fingernails")
 
-![](/images/washing-detailed_flush.jpg)
+![Washing Hands - Detailed Series Flush](/images/washing-detailed_flush.jpg "Washing Hands - Detailed Series Flush")
+
+![Washing Hands - Detailed Series Use Soap](/images/washing-detailed_use-soap.jpg "Washing Hands - Detailed Series Use Soap")
 
 **\*NOTE:** Client currently uninterested in this level of detail per sketchy storyboard theme*

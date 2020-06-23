@@ -26,4 +26,4 @@ We want to have her *(or even the other interviewees/narrators/spokespeople)* lo
 
 ![Wynn Storyboard Markerized - FIRST LOOK](/images/graphite-6.jpg "Wynn Storyboard Markerized - FIRST LOOK")
 
-Please let us know on the [voting form](https://herding-cats.netlify.app/pages/cats-your-vote/), which side you like ***more***. Left or Right.
+Please let us know on the [voting form](https://herding-cats.netlify.app/pages/cats-your-vote/), which side you like ***more***. Left or Right. *(If you genuinely don't like left or right and prefer the old look, you can do that too.)*

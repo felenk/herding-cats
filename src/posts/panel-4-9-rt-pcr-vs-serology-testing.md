@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Panel 4.9 | RT-PCR vs Serology Testing
 metaTitle: Panel 4.9 | RT-PCR vs Serology Testing
 metaDesc: Panel 4.9 | RT-PCR vs Serology Testing
+socialImage: /images/4-9_web.jpg
 date: 2020-06-26T18:43:24.077Z
 tags:
   - panels

@@ -1,0 +1,10 @@
+---
+layout: layouts/page.njk
+title: Illustration Partials
+permalink: ""
+metaTitle: Illustration Partials
+metaDesc: Illustration Partials
+---
+Illustrations that are going to be used in featured panels, but are not designed to be full featured panels by them selves. 
+
+Some of these images are also setup to be animatic elements for other full-featured panels. Others might end up as full panels, but are currently drafted as separate, or with a neutral purpose.

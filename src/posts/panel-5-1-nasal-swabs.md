@@ -12,5 +12,8 @@ tags:
   - finished
   - PROD
 ---
-Describing the nasal swab process and its benefit over others
+Describing the nasal swab process and its benefit over the serology tests, and emphasis on mobile testing, as most physicians in most states do not yet have the ability to perform these tests, or are unwilling to have potential COVID patients in their waiting rooms.
 
+
+
+![Panel 5.1 | Nasal Swabs](/images/5-1_websm.jpg "Panel 5.1 | Nasal Swabs")

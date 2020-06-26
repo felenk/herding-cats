@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Panel 4.9 | RT-PCR vs Serology testing
-metaTitle: Panel 4.9 | RT-PCR vs Serology testing
-metaDesc: Panel 4.9 | RT-PCR vs Serology testing
+title: Panel 4.9 | RT-PCR vs Serology Testing
+metaTitle: Panel 4.9 | RT-PCR vs Serology Testing
+metaDesc: Panel 4.9 | RT-PCR vs Serology Testing
 date: 2020-06-26T18:43:24.077Z
 tags:
   - panels
@@ -11,4 +11,8 @@ tags:
   - finished
   - PROD
 ---
-Illustration panel with animation highlights showing the benefit of RT-PCR testing over Serology antibody testing.
+Illustration panel with animation highlights showing approval of RT-PCR testing over Serology antibody testing.
+
+
+
+![Panel 4.9 | RT-PCR vs Serology Testing](/images/4-9_web.jpg "Panel 4.9 | RT-PCR vs Serology Testing")

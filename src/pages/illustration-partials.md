@@ -4,6 +4,7 @@ title: Illustration Partials
 permalink: ""
 metaTitle: Illustration Partials
 metaDesc: Illustration Partials
+socialImage: /images/new-charcoal_filmset_stage-sketchier_web.jpg
 ---
 Illustrations that are going to be used in featured panels, but are not designed to be full featured panels by them selves. 
 

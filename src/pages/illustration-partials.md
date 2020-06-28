@@ -14,6 +14,6 @@ Illustrations that are going to be used in featured panels, but are not designed
 
 *Illustration for Panels 4.1 and 4.2 with Avoiding Bar Scenes:*
 
-![Illustration for Panels 4.1 and 4.2 with Avoiding Bar Scenes](/images/cleanshot-2020-06-28-at-08.20.01-2x.png "Illustration for Panels 4.1 and 4.2 with Avoiding Bar Scenes")
+![Illustration for Panels 4.1 and 4.2 with Avoiding Bar Scenes]( "Illustration for Panels 4.1 and 4.2 with Avoiding Bar Scenes")
 
 Some of these images are also setup to be animatic elements for other full-featured panels. Others might end up as full panels, but are currently drafted as separate, or with a neutral purpose.

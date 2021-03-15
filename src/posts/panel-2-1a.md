@@ -10,6 +10,7 @@ tags:
   - updates
   - optional
   - guidelines
+  - litter-box
 ---
 **SCRIPT**: *Spokesperson talking and traversing throughout the stage/scene*
 
